@@ -1,5 +1,5 @@
 # splash-imgs
-Build your own splash screens for the Fairphone 2 (FP2)
+Build your own splash screens
 
 # Building the splash screen
 
